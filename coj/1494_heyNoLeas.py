@@ -1,0 +1,3 @@
+a = raw_input()
+
+print "I got my first solution!!!"
